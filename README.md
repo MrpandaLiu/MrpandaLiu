@@ -4,9 +4,9 @@
 
 🏢 Alibaba Group. Taobao Team.
 
-📚 TypeScript & VueJS & ReactJS & NodeJS.
+📚 `TypeScript` & `VueJS` & `ReactJS` & `NodeJS`.
 
-🔧 develop mobile web applications & manage systems, foucs on best practice and effectvie librarys.
+🔧 develop mobile web applications & manage systems, foucs on best practice and effectvie library.
 
 📧 email: mrpandaliu@foxmail.com
 
