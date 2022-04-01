@@ -2,10 +2,13 @@
 
 🧑 a **Frontend Engineer** from China🇨🇳.
 
-Alibaba Group. Taobao Team.
+🏢 Alibaba Group. Taobao Team.
 
-TypeScript & VueJS & ReactJS & NodeJS.
+📚 TypeScript & VueJS & ReactJS & NodeJS.
 
-Learning for user facing web application。
+🔧 develop mobile web applications & manage systems, foucs on best practice and effectvie librarys.
+
+📧 email: mrpandaliu@foxmail.com
+
 
 ![information](https://github-readme-stats.vercel.app/api?username=MrpandaLiu&show_icons=true&theme=radical)
