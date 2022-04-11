@@ -1,12 +1,6 @@
 ### Hi there, I am Panda Liu 👋
 
-🧑 a **Frontend Engineer** from China🇨🇳.
-
-🏢 Alibaba Group. Taobao Team.
-
-📚 `TypeScript` & `VueJS` & `ReactJS` & `NodeJS`.
-
-🔧 develop mobile web applications & manage systems, foucs on best practice and effectvie library.
+🧑 a **Web Developer** from China🇨🇳.
 
 📧 email: mrpandaliu@foxmail.com
 
