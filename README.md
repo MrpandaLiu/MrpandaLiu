@@ -25,4 +25,12 @@
 
 ### 🐰 Github Information
 ![information](https://github-readme-stats.vercel.app/api?username=MrpandaLiu&show_icons=true&theme=radical)
+
+### :coffee:Connect with Me
+<div align="center">
+<img src="https://img.shields.io/badge/-@Mrpandaliu-black?style=flat-square&logo=github" /> 
+<a href="https://www.zhihu.com/people/chang-miao-61" target="_blank"><img src="https://img.shields.io/badge/-@熊猫 MrPanda-black?style=flat-square&logo=zhihu" /></a>
+<a href="mrpandaliu@foxmail.com" target="_blank"><img src="https://img.shields.io/badge/-@长喆-black?style=flat-square&logo=Gmail&logoColor=red" />
+</div></a>
+
 <img src="https://gw.alicdn.com/imgextra/i2/O1CN01QjWUdc1YAI6eU9i6U_!!6000000003018-2-tps-2880-824.png">
