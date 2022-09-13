@@ -1,4 +1,4 @@
-<img src="https://gw.alicdn.com/imgextra/i2/O1CN01cCwabO1pGZ03F0rVY_!!6000000005333-2-tps-2880-925.png">
+<img src="https://img.alicdn.com/imgextra/i2/O1CN01cCwabO1pGZ03F0rVY_!!6000000005333-2-tps-2880-925.png">
 
 ### 🐻 About Me
 - 🏫 I major Computer and Science in HZAU, China Wuhan.
