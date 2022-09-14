@@ -5,7 +5,7 @@
 
 - 💻 I'm working in Alibaba Group, who is supporting Taobao Content applications.
 
-- 📮 My private emial is mrpandaliu@forxmail.com, if you have any question and you could send a email to me.
+- 📮 My private email is mrpandaliu@forxmail.com, if you have any questions and you could email me.
 
 ### 🔨 Tech Stack
 
