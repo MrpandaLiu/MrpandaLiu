@@ -2,9 +2,9 @@
 
 - 🏫 HZAU, China Wuhan
 
-- 🧑‍💻 Front End, HyBrid Application, Web Multi Media
+- 🧑‍💻 Front End, HyBrid Application, Web Infra, Web Multi Media
 
-- 💻 ex ByteDance, now Taobao
+- 🏡 ex ByteDance, now Taobao
 
 - 📮 mrpandaliu@forxmail.com
 
